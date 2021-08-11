@@ -1,3 +1,5 @@
+using System;
+using api.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
@@ -9,7 +11,8 @@ namespace api.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            return Ok("Bonjour!");
+            // TODO: Implement
+            throw new NotImplementedException();
         }
     }
 }

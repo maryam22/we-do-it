@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{BC8BD52C-86A3-4C0C-A8B7-2FC09F93BCEA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/appsettings.json">
+    <Files>
+      <File FileName="api/Controllers/BonjourController.cs" Line="8" Column="28" />
+      <File FileName="api/Services/IBonjourService.cs" Line="6" Column="26" />
+      <File FileName="api/Startup.cs" Line="12" Column="10" />
+      <File FileName="api/Controllers/RandomController.cs" Line="1" Column="1" />
+      <File FileName="api/User.cs" Line="1" Column="1" />
+      <File FileName="api/Program.cs" Line="1" Column="1" />
+      <File FileName="api/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="do-it-api" expanded="True">
+            <Node name="api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
