@@ -19,6 +19,19 @@ export class AssignmentComponent implements OnInit {
 
   assignmentCode(): void {
     // TODO: Add here your javascript code
+   let btn =document.querySelector('button')
+
+   btn.addEventListener('click',function(){
+
+     btn.classList.add("blue-gradient")
+     btn.classList.remove("orange-gradient")
+     setTimeout(() => {
+      alert("what's up!")
+     }, 100);
+    
+
+   })
+
 
   }
 

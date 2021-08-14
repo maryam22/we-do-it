@@ -3,12 +3,6 @@
     <PropertyGroup>
         <TargetFramework>netcoreapp3.1</TargetFramework>
     </PropertyGroup>
-
-
-    <ItemGroup>
-      <Folder Include="Services\" />
-      <Folder Include="Models\" />
-    </ItemGroup>
     <ItemGroup>
       <None Remove="Models\" />
     </ItemGroup>

@@ -8,11 +8,14 @@ namespace api.Controllers
     [Route("[controller]")]
     public class BonjourController : Controller
     {
+
+
         [HttpGet]
         public IActionResult Index()
         {
-            // TODO: Implement
-            throw new NotImplementedException();
+            var bonjourService = new BonjourService();
+
+            return Ok(bonjourService.Bonjour());
         }
     }
 }
